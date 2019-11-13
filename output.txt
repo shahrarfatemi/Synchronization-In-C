@@ -1,0 +1,120 @@
+Thread[0] has available line, call ringing.
+Thread[1] has available line, call ringing.
+Thread[2] has available line, call ringing.
+Thread[3] has available line, call ringing.
+Thread[1] is waiting for an operator
+Thread[1] is speaking to operator.
+Thread[3] is waiting for an operator
+Thread[3] is speaking to operator.
+Thread[2] is waiting for an operator
+Thread[2] is speaking to operator.
+Thread[0] is waiting for an operator
+Thread[4] has available line, call ringing.
+Thread[4] is waiting for an operator
+Thread[5] is calling line, busy signal.
+Thread[6] is calling line, busy signal.
+Thread[7] is calling line, busy signal.
+Thread[8] is calling line, busy signal.
+Thread[9] is calling line, busy signal.
+Thread[10] is calling line, busy signal.
+Thread[11] is calling line, busy signal.
+Thread[12] is calling line, busy signal.
+Thread[13] is calling line, busy signal.
+Thread[14] is calling line, busy signal.
+Thread[15] is calling line, busy signal.
+Thread[16] is calling line, busy signal.
+Thread[17] is calling line, busy signal.
+Thread[18] is calling line, busy signal.
+Thread[19] is calling line, busy signal.
+Thread[2] has bought a ticket.
+Thread[0] is speaking to operator.
+Thread[2] has hung up.
+Thread[3] has bought a ticket.
+Thread[1] has bought a ticket.
+Thread[4] is speaking to operator.
+Thread[14] is waiting for an operator
+Thread[11] is waiting for an operator
+Thread[1] has hung up.
+Thread[18] is waiting for an operator
+Thread[3] has hung up.
+Thread[14] is speaking to operator.
+Thread[14] has bought a ticket.
+Thread[14] has hung up.
+Thread[11] is speaking to operator.
+Thread[0] has bought a ticket.
+Thread[4] has bought a ticket.
+Thread[18] is speaking to operator.
+Thread[0] has hung up.
+Thread[4] has hung up.
+Thread[15] is waiting for an operator
+Thread[15] is speaking to operator.
+Thread[17] is waiting for an operator
+Thread[5] is waiting for an operator
+Thread[18] has bought a ticket.
+Thread[18] has hung up.
+Thread[17] is speaking to operator.
+Thread[11] has bought a ticket.
+Thread[11] has hung up.
+Thread[12] is waiting for an operator
+Thread[5] is speaking to operator.
+Thread[13] is waiting for an operator
+Thread[15] has bought a ticket.
+Thread[12] is speaking to operator.
+Thread[15] has hung up.
+Thread[8] is waiting for an operator
+Thread[16] is waiting for an operator
+Thread[9] is waiting for an operator
+Thread[6] is waiting for an operator
+Thread[10] is waiting for an operator
+Thread[5] has bought a ticket.
+Thread[5] has hung up.
+Thread[13] is speaking to operator.
+Thread[17] has bought a ticket.
+Thread[17] has hung up.
+Thread[8] is speaking to operator.
+Thread[12] has bought a ticket.
+Thread[16] is speaking to operator.
+Thread[12] has hung up.
+Thread[8] has bought a ticket.
+Thread[13] has bought a ticket.
+Thread[8] has hung up.
+Thread[13] has hung up.
+Thread[6] is speaking to operator.
+Thread[9] is speaking to operator.
+Thread[7] is waiting for an operator
+Thread[19] is waiting for an operator
+Thread[16] has bought a ticket.
+Thread[16] has hung up.
+Thread[10] is speaking to operator.
+Thread[6] has bought a ticket.
+Thread[9] has bought a ticket.
+Thread[6] has hung up.
+Thread[7] is speaking to operator.
+Thread[9] has hung up.
+Thread[19] is speaking to operator.
+Thread[10] has bought a ticket.
+Thread[10] has hung up.
+Thread[7] has bought a ticket.
+Thread[19] has bought a ticket.
+Thread[7] has hung up.
+Thread[19] has hung up.
+> 1	2
+> 3	1
+> 2	3
+> 0	14
+> 4	0
+> 14	4
+> 11	18
+> 18	11
+> 15	15
+> 17	5
+> 5	17
+> 12	12
+> 13	8
+> 8	13
+> 16	16
+> 9	6
+> 6	9
+> 10	10
+> 7	7
+> 19	19
